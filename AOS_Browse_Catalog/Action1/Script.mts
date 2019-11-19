@@ -1,6 +1,8 @@
 ﻿
 ' BROWSE CATALOG
 
+' comment!
+
 ' SPEAKERS
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategoryTxt").Check CheckPoint("Check the Speakers Category text")
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategoryTxt").Click @@ script infofile_;_ZIP::ssf1.xml_;_
